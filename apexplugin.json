@@ -34,7 +34,7 @@
         "internalName": "COM.DJOGICSLAVKO.APEXINITIALS",
         "type": "item",
         "demo": "https://apex.oracle.com/pls/apex/f?p=57743:1",
-        "previewImage": "https://raw.githubusercontent.com/djoga98/apex-plugin-snackbar/main/apex_snackbar.png"
+        "previewImage": "https://raw.githubusercontent.com/djoga98/apex-plugin-initials/main/apex_initials.png"
       }
     }
   }
