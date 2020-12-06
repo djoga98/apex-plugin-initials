@@ -12,7 +12,7 @@
 ## Plugin Settings
 How to use item | How to use API (part 1) | How to use API (part 2)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/djoga98/apex-plugin-initials/blob/main/how_to_use_item.png)|![](https://github.com/djoga98/apex-plugin-initials/blob/main/how_to_use_api_part_1.png)|![](https://github.com/djoga98/apex-plugin-initials/blob/main/how_to_use_api_part_2.png)
+![](https://github.com/djoga98/apex-plugin-initials/blob/main/how_to_use_item.png) | ![](https://github.com/djoga98/apex-plugin-initials/blob/main/how_to_use_api_part_1.png) | ![](https://github.com/djoga98/apex-plugin-initials/blob/main/how_to_use_api_part_2.png)
 
 ## Changelog
 #### 1.0.0 - Initial Release
