@@ -4,7 +4,7 @@
 [![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 ## Preview
-![](https://github.com/djoga98/apex-plugin-snackbar/blob/main/apex_initials.png)
+![](https://github.com/djoga98/apex-plugin-initials/blob/main/apex_initials.png)
 
 ## Install
 - Import plugin file "item_type_plugin_com_djogicslavko_apexinitials.sql" from **dist** directory into your application
