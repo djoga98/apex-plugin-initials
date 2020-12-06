@@ -1,0 +1,41 @@
+{
+  "name": "APEX Initials",
+  "version": "1.0",
+  "description": "Oracle APEX Item Plugin - APEX Initials",
+  "keywords": [
+    "oracle",
+    "apex",
+    "plugin",
+    "item",
+    "avatar",
+    "profile",
+    "picture"
+  ],
+  "homepage": "https://github.com/djoga98/apex-plugin-initials",
+  "bugs": {
+    "url": "https://github.com/djoga98/apex-plugin-initials/issues",
+    "email": "djogicslavko@gmail.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Slavko Djogic",
+    "email": "djogicslavko@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djoga98/apex-plugin-initials.git"
+  },
+  "oracle": {
+    "versions": ["18.0.0.0"],
+    "apex": {
+      "versions": ["20.2.0"],
+      "plugin": {
+        "internalName": "COM.DJOGICSLAVKO.APEXINITIALS",
+        "type": "item",
+        "demo": "https://apex.oracle.com/pls/apex/f?p=57743:1",
+        "previewImage": "https://raw.githubusercontent.com/djoga98/apex-plugin-snackbar/main/apex_snackbar.png"
+      }
+    }
+  }
+}
